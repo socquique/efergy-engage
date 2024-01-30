@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Engage Efergy",
+  "name": "homebridge-engage-efergy",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Get current power consumption from efergy engage device.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/socquique/efergy-engage.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/socquique/efergy-engage/issues"
   },
   "engines": {
     "node": "^18.17.0 || ^20.9.0",
