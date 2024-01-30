@@ -5,11 +5,11 @@
   "schema": {
     "type": "object",
     "properties": {
-      "name": {
-        "title": "Name",
+      "apikey": {
+        "title": "API Key",
         "type": "string",
         "required": true,
-        "default": "Example Dynamic Platform"
+        "default": "The API Key form your panel"
       }
     }
   }
